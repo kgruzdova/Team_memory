@@ -1,0 +1,10 @@
+{"question":"За сколько нужно отвечать клиенту?","expected_needs_review":false,"why":"есть в правилах команды"}
+{"question":"Какой срок доставки?","expected_needs_review":false,"why":"есть в FAQ"}
+{"question":"Можно ли вернуть товар?","expected_needs_review":false,"why":"есть в FAQ"}
+{"question":"Что такое CRM?","expected_needs_review":false,"why":"есть в словаре"}
+{"question":"Как начинается задача?","expected_needs_review":false,"why":"есть в процессе"}
+{"question":"Как вежливо ответить клиенту?","expected_needs_review":false,"why":"есть шаблон ответа"}
+{"question":"Что делать если нет ответа?","expected_needs_review":false,"why":"есть в правилах"}
+{"question":"Какая зарплата у сотрудников?","expected_needs_review":true,"why":"нет в базе"}
+{"question":"Какие выходные у команды?","expected_needs_review":true,"why":"нет в базе"}
+{"question":"Какой у нас бюджет проекта?","expected_needs_review":true,"why":"нет в базе"}

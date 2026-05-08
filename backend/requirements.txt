@@ -1,0 +1,13 @@
+fastapi
+docling
+docling-haystack
+haystack-ai
+pinecone-haystack
+openai
+python-multipart
+pydantic
+sqlalchemy
+uvicorn
+pytest
+httpx
+
