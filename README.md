@@ -178,10 +178,9 @@ curl -X POST http://127.0.0.1:8000/kb/ask \
 ## Скриншоты ключевых экранов
 Добавьте изображения в папку `screenshots` и используйте ссылки:
 
-```md
-![Документы](screenshots/Screenshot_docs.png)
-![Вопросы](screenshots/Screenshot_ask.png)
-![История](screenshots/Screenshot_history.png)
-![История_фильтр_проверки](screenshots/Screenshot_filtr.png)
-```
+![Экран Документы](screenshots/Screenshot_docs.png)
+![Экран Вопросы](screenshots/Screenshot_ask.png)
+![Экран История](screenshots/Screenshot_history.png)
+![Экран История_фильтр_проверки](screenshots/Screenshot_filtr.png)
+
 
